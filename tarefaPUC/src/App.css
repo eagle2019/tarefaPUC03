@@ -1,0 +1,11 @@
+.Top {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.media{
+ display: grid;
+ justify-content: center;
+ text-align: center;
+}
+

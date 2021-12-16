@@ -1,0 +1,12 @@
+h2 {
+    text-align: center;
+}
+.center{
+    display: grid;
+    justify-content: center;
+}
+.bts {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+}
